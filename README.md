@@ -1,16 +1,67 @@
-# React + Vite
+# 🎓 Student Dashboard Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
 
-Currently, two official plugins are available:
+Live URL:
+https://student-dashboard-project-snowy.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## GitHub Repository
 
-## React Compiler
+Repository:
+https://github.com/konavenkatesh23/student-dashboard-project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Overview
 
-## Expanding the ESLint configuration
+A modern Student Dashboard Management System developed using React.js, Bootstrap, Chart.js, React Router, Axios, and Local Storage.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* User Login & Registration
+* Protected Routes
+* Dashboard Analytics
+* Student CRUD Operations
+* Users API Integration
+* Profile Page
+* Settings Page
+* Reports Page
+* PDF Export
+* Dark / Light Mode
+* Responsive Design
+* Toast Notifications
+
+## Technologies Used
+
+* React.js
+* Vite
+* Bootstrap 5
+* React Router DOM
+* Axios
+* Chart.js
+* React Icons
+* React Toastify
+* jsPDF
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Deployment
+
+Hosted on Vercel
+
+https://student-dashboard-project-snowy.vercel.app
+
+## Author
+
+Kona Venkatesh
+
+Internship Project Submission
